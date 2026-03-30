@@ -52,7 +52,7 @@ git config --global user.email "your.email@example.com"
 ### 4. Clone & Execution
 ```bash
 # Clone the repository
-git clone https://github.com/Anunay1601/OSS-audit-24BAI10425
+git clone https://github.com/Anunay1601/OSS-audit-24BAI10425.git
 cd OSS-audit-24BAI10425
 
 # Make all scripts executable (REQUIRED)
